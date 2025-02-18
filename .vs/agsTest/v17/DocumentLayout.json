@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -35,20 +35,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-02-18T14:58:48.323Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EditorPlugin.cpp",
-              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\agsTest\\EditorPlugin.cpp",
-              "RelativeDocumentMoniker": "EditorPlugin.cpp",
-              "ToolTip": "C:\\Users\\Owner\\source\\repos\\agsTest\\EditorPlugin.cpp",
-              "RelativeToolTip": "EditorPlugin.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-18T15:04:06.001Z"
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -62,6 +49,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-18T02:51:05.679Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditorPlugin.cpp",
+              "DocumentMoniker": "C:\\Users\\Owner\\source\\repos\\agsTest\\EditorPlugin.cpp",
+              "RelativeDocumentMoniker": "EditorPlugin.cpp",
+              "ToolTip": "C:\\Users\\Owner\\source\\repos\\agsTest\\EditorPlugin.cpp",
+              "RelativeToolTip": "EditorPlugin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T15:04:06.001Z"
             },
             {
               "$type": "Bookmark",
